@@ -36,3 +36,32 @@
     text-decoration: none;
     cursor: pointer;
   }
+
+  body{
+    background-color: #fff;
+    color: black;
+    font-family: sans-serif;
+  }
+
+  section {
+    color: #4d4d4d;
+    margin: 16px;
+    font-size: 14px ;
+  }
+  main #main-doc{
+    position: relative;
+    margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 110;
+  }
+code{
+  position: relative;
+  white-space: pre-line;
+  word-wrap: normal;
+  line-height: 2;
+  display: block;
+  text-align: center;
+  background-color: #f7f7f7;
+  padding: 14px;
+  border-radius: 5px;
+}
